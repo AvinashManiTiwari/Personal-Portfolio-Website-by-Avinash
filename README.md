@@ -8,7 +8,7 @@ This portfolio represents my journey in web development and serves as a platform
 
 ## ✨ Live Preview
 
-🌍 **Live Website:** [View Portfolio](YOUR_PORTFOLIO_LINK)
+🌍 **Live Website: https://avinashmanitiwari.github.io/Personal-Portfolio-Website-by-Avinash/
 
 ---
 
